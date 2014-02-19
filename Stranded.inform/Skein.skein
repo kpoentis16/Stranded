@@ -1,11 +1,172 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0xa409050" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x9336550" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0xa409050" />
-  <item nodeId="node-0xa409050">
+  <activeNode nodeId="node-0x9336550" />
+  <item nodeId="node-0x9336550">
     <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+You went on a fishing trip with a friend off the Malé Sea Port in the Maldive Islands. You don&apos;t remember much from what had happened but you recall the waves being really rough since there was a huge hurricane approaching that you were unaware of. You also remember crying and panicing because your friend had fell off the boat and was sucked into the deep sea in no time. You must&apos;ve passed out or something becasue you don&apos;t remmeber the rest. Luckily, you wake up on this seem-to-be abandoned island. I mean the Maldive Islands are composed with over 1,200 islands…You must be on one of those?
+
+Stranded
+An Interactive Fiction by Kaitlyn Poentis
+Release 1 / Serial number 140219 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Beach
+You wake up on warm sand in pain. You must&apos;ve been rolling in the reef when you got tossled around by the waves. Your face, as well as the rest of your body seems to have multiple cuts.
+
+You can see an Ocean, a palm trees and a piece of the wood here.
+
+&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="0">NO</temporary>
+    <temporary score="13">NO</temporary>
+    <children>
+      <child nodeId="node-0x1bc8ee0" />
+      <child nodeId="node-0x93b9fa0" />
+      <child nodeId="node-0x9693220" />
+    </children>
+  </item>
+  <item nodeId="node-0x9693220">
+    <command xml:space="preserve">x ocean</command>
+    <result xml:space="preserve">The ocean that took your friend, your ship, and almost your life. It is also known as the Arabian Sea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x9681260" />
+    </children>
+  </item>
+  <item nodeId="node-0x9681260">
+    <command xml:space="preserve">go in ocean</command>
+    <result xml:space="preserve">It&apos;s kinda cold, I&apos;m also a little scared to be in here, given the circumstances.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x96888c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x96888c0">
+    <command xml:space="preserve">exit ocean</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0xc021e90" />
+    </children>
+  </item>
+  <item nodeId="node-0xc021e90">
+    <command xml:space="preserve">get out of ocean</command>
+    <result xml:space="preserve">I only understood you as far as wanting to get outside.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0xc161410" />
+    </children>
+  </item>
+  <item nodeId="node-0xc161410">
+    <command xml:space="preserve">leave ocean</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="7">YES</temporary>
+    <children>
+      <child nodeId="node-0x96306d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x96306d0">
+    <command xml:space="preserve">stand up</command>
+    <result xml:space="preserve">You get off the Ocean.
+
+Beach
+You wake up on warm sand in pain. You must&apos;ve been rolling in the reef when you got tossled around by the waves. Your face, as well as the rest of your body seems to have multiple cuts.
+
+You can see an Ocean here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+  </item>
+  <item nodeId="node-0x93b9fa0">
+    <command xml:space="preserve">x players face</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="13">YES</temporary>
+    <children>
+      <child nodeId="node-0xc03dcd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xc03dcd0">
+    <command xml:space="preserve">x face</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="13">YES</temporary>
+    <children>
+      <child nodeId="node-0x9337c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x9337c40">
+    <command xml:space="preserve">x body</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="12">YES</temporary>
+  </item>
+  <item nodeId="node-0x1bc8ee0">
+    <command xml:space="preserve">x cuts</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0xc0620d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xc0620d0">
+    <command xml:space="preserve">x face</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0xc939b00" />
+    </children>
+  </item>
+  <item nodeId="node-0xc939b00">
+    <command xml:space="preserve">cuts</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
   </item>
 </Skein>
