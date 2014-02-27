@@ -4,9 +4,6 @@ Things can be complete or incomplete. Things are usually incomplete.
 
 When play begins: say "You went on a fishing trip with a friend off the Malé Sea Port in the Maldive Islands. You don't remember much from what had happened but you recall the waves being really rough since there was a huge hurricane approaching that you were unaware of. You also remember crying and panicing because your friend had fell off the boat and was sucked into the deep sea in no time. You must've passed out or something becasue you don't remmeber the rest. Luckily, you wake up on this seem-to-be abandoned island. I mean the Maldive Islands are composed with over 1,200 islands…You must be on one of those?"
 
-At 9:20 AM: say "I'm really hungry and thirsty, I could really go for some food and something to drink right now."
-At 9:30 AM: say "I haven't eaten anything, please feed me soon."
-
 
 The Beach is a room. "You wake up on warm sand in pain. You must've been rolling in the reef when you got tossled around by the waves. Your face, as well as the rest of your body seems to have multiple cuts. In the distance to the east, you can see a wooden structure."
 The ocean is a enterable supporter in the Beach. The description is "The ocean that took your friend, your ship, and almost your life. It is also known as the Arabian Sea."
@@ -20,6 +17,38 @@ Instead of taking the piece of wood:
 Check going east:
 	If player is in the Beach:
 	 	say "You head east and stumble upon the many palm trees and run into a…"
+	
+
+Food is a kind of thing. Food is usually edible. Food has a time called the satisfaction period. The satisfaction period of a food is usually 20 minutes. 
+A person can be hungry or replete. The player is hungry.
+The Small forest contains some bananas. Some bananas is food. The satisfaction period of some bananas is 25 minutes. 
+Check eating something:
+	if the noun is not food, say "[The noun] might be edible, but it's not what you'd consider food or something you really want to eat."
+Carry out eating something:
+	now the player is replete;
+	hunger resumes in the satisfaction period of the noun from now.
+At the time when hunger resumes:
+	starvation occurs in five minutes from now;
+	now the player is hungry.
+At the time when starvation occurs:
+	if the player is hungry, end the game saying "You have starved to death".
+Every turn when the player is hungry:
+	choose a random row in the Table of Hunger Complaints;
+	say "[hunger entry][paragraph break]".
+
+Table of Hunger Complaints
+hunger
+"Dude, you are sooooo hungry."
+"I really could go for a burger and some ice cream."
+"Is there any fruits for me to eat here?"
+"I can't function without my food!"
+"Food would be REALLY great right now."
+"Maybe some pizza would be awesome?"
+"I need food."
+"My tummy is growling so loud."
+"It feels as though you haven't eaten in weeks. Months, almost."
+"I'm weak, tired and especially starving!"
+"I need food now… Please?"
 
 The Wooden Structure is a room. It is east of the Beach. The description is "You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner."
 Some dirty clothes is a thing in the wooden structure. The dirty clothes can be worn. The description is "A pile of old, dusty, dirty t-shirts and baggy pants."
@@ -80,7 +109,7 @@ The Cave is an enterable supporter in the Lagoon. The description is "A big rock
 The Pond is a room. It is west of the Lagoon. "More exotic plants cover the ground around the pond. The water must come from the Lagoon next door. But the water is filled with tons of algae, fish are capable of living here."
 
 
-The North forest is a room It is east of the Lagoon.
+The North forest is a room. It is east of the Lagoon.
 
   
  
