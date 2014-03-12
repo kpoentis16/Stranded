@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x1ba2350" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x18ed880" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x1ba2350" />
-  <item nodeId="node-0x1ba2350">
+  <activeNode nodeId="node-0x18ed880" />
+  <item nodeId="node-0x18ed880">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -12,1922 +12,29 @@ You went on a fishing trip with a friend off the Malé Sea Port in the Maldive I
 
 Stranded
 An Interactive Fiction by Kaitlyn Poentis
-Release 1 / Serial number 140303 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+Release 1 / Serial number 140311 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 
 Beach
-You wake up on warm sand in pain. You must&apos;ve been rolling in the reef when you got tossled around by the waves. Your face, as well as the rest of your body seems to have multiple cuts. In the distance to the east, you can see a wooden structure.
+You wake up on warm sand in pain. You must&apos;ve been rolling in the reef when you got tossled around by the waves. Your face, as well as the rest of your body seems to have multiple cuts. A large piece of wood, is only a few feet away from you. You must have been floated here on that. In the distance to the east, you can see a wooden structure.
 
-You can see an ocean, some palm trees and a piece of wood here.
+You can see an ocean, some palm trees, a piece of wood and an east ocean here.
 
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="25">NO</temporary>
-    <children>
-      <child nodeId="node-0x1ba23d0" />
-      <child nodeId="node-0x1be9b30" />
-      <child nodeId="node-0x1be99e0" />
-      <child nodeId="node-0x1be94a0" />
-      <child nodeId="node-0x1be93c0" />
-      <child nodeId="node-0x1be9270" />
-      <child nodeId="node-0x1be8630" />
-      <child nodeId="node-0x1bea4d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea4d0">
-    <command xml:space="preserve">x beach</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea540" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea540">
-    <command xml:space="preserve">igui</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea5b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea5b0">
-    <command xml:space="preserve">iuhh34e</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea620" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea620">
-    <command xml:space="preserve">fuigus</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea690" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea690">
-    <command xml:space="preserve">dfsdug</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea700" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea700">
-    <command xml:space="preserve">heriughi</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea770" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea770">
-    <command xml:space="preserve">dfhhg</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea7e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea7e0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea850" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea850">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Small forest
-You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
-
-You can see a branch, some bananas and a thin plastic card here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea8c0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea8c0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea930" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea930">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea9a0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea9a0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beaa10" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beaa10">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beaa80" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beaa80">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beaaf0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beaaf0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beab60" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beab60">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beabd0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beabd0">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beac40" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beac40">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beacb0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beacb0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bead20" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bead20">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bead90" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bead90">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beae00" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beae00">
-    <command xml:space="preserve">v</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beae70" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beae70">
-    <command xml:space="preserve">r</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beaee0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beaee0">
-    <command xml:space="preserve">b</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beaf50" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beaf50">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beafc0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beafc0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Boulders
-An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
-
-You can see some shrubs and some berries here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb030" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb030">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Lagoon
-The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
-
-You can see a Cave here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb0a0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb0a0">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">
-Boulders
-An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
-
-You can see some shrubs and some berries here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb110" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb110">
-    <command xml:space="preserve">r</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb180" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb180">
-    <command xml:space="preserve">v</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb1f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb1f0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb260" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb260">
-    <command xml:space="preserve">erg</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb2d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb2d0">
-    <command xml:space="preserve">v</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb340" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb340">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb3b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb3b0">
-    <command xml:space="preserve">c</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb420" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb420">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Open field
-You enter a serene open, grassy area. It is like an open field you&apos;d see in movies with couples lying in the grass and picking the dandilions. To the east you see an open field and south of you is the wooden structure.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb490" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb490">
-    <command xml:space="preserve">g</command>
-    <result xml:space="preserve">
-Large forest
-The thickness of all the trees surrounding the area makes it very dark and a little hard to see There is a lot of moister in the air making it very hot. To your west is an Open field and to your east looks like an opening out of the forest.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb500" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb500">
-    <command xml:space="preserve">h</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb570" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb570">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-East Beach
-The sand is a little finer and whiter than the beach you first woke up on. The waves are a lot more calm and don&apos;t freak me out as much either. To your west is the opening back into the Large forest.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb5e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb5e0">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-I&apos;m really hungry and thirsty, I could really go for some food and something to drink right now.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb650" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb650">
-    <command xml:space="preserve">bd</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb6c0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb6c0">
-    <command xml:space="preserve">x</command>
-    <result xml:space="preserve">What do you want to examine?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb730" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb730">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You see nothing unexpected in that direction.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb7a0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb7a0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-Large forest
-The thickness of all the trees surrounding the area makes it very dark and a little hard to see There is a lot of moister in the air making it very hot. To your west is an Open field and to your east looks like an opening out of the forest.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb810" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb810">
-    <command xml:space="preserve">b</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb880" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb880">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb8f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb8f0">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb960" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb960">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beb9d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beb9d0">
-    <command xml:space="preserve">d</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1beba40" />
-    </children>
-  </item>
-  <item nodeId="node-0x1beba40">
-    <command xml:space="preserve">df</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebab0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebab0">
-    <command xml:space="preserve">f</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebb20" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebb20">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebb90" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebb90">
-    <command xml:space="preserve">b</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebc00" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebc00">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebc70" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebc70">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebce0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebce0">
-    <command xml:space="preserve">g</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebd50" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebd50">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebdc0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebdc0">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebe30" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebe30">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebea0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebea0">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebf10" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebf10">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebf80" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebf80">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="146">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bebff0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bebff0">
-    <command xml:space="preserve"></command>
-    <result xml:space="preserve">I beg your pardon?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="145">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be8630">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-I really could go for a burger and some ice cream.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0xbcc2520" />
-      <child nodeId="node-0x1be86a0" />
-      <child nodeId="node-0x1be88d0" />
-      <child nodeId="node-0x1be87f0" />
-      <child nodeId="node-0x6d3d250" />
-      <child nodeId="node-0xf13dd90" />
-    </children>
-  </item>
-  <item nodeId="node-0xf13dd90">
-    <command xml:space="preserve">tkae clothes</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bef640" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bef640">
-    <command xml:space="preserve">take clothes</command>
-    <result xml:space="preserve">I guess I&apos;ll carry it…but it&apos;s filthy.
-
-Dude, you are sooooo hungry.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0xbc11c80" />
-    </children>
-  </item>
-  <item nodeId="node-0xbc11c80">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Boulders
-An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
-
-You can see some shrubs and some berries here.
-
-I&apos;m weak, tired and especially starving!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0x6d87580" />
-    </children>
-  </item>
-  <item nodeId="node-0x6d87580">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Lagoon
-The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
-
-You can see a Cave and a jug here.
-
-I&apos;m weak, tired and especially starving!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0x1ba0f80" />
-    </children>
-  </item>
-  <item nodeId="node-0x1ba0f80">
-    <command xml:space="preserve">take jug</command>
-    <result xml:space="preserve">Okay, I&apos;ve got it. It&apos;s a little wet and slippery.
-
-Maybe some pizza would be awesome?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0x6dfb280" />
-    </children>
-  </item>
-  <item nodeId="node-0x6dfb280">
-    <command xml:space="preserve">clean clothes with jug</command>
-    <result xml:space="preserve">You now have a clean clothes.
-
-Maybe some pizza would be awesome?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-    <children>
-      <child nodeId="node-0x18c3580" />
-    </children>
-  </item>
-  <item nodeId="node-0x18c3580">
-    <command xml:space="preserve">wear clothes</command>
-    <result xml:space="preserve">You put on the clean clothes.
-
-I need food now… Please?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="24">YES</temporary>
-  </item>
-  <item nodeId="node-0x6d3d250">
-    <command xml:space="preserve">take dirty clothes</command>
-    <result xml:space="preserve">I guess I&apos;ll carry it…but it&apos;s filthy.
-
-I need food now… Please?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bada40" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bada40">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Boulders
-An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
-
-You can see some shrubs and some berries here.
-
-My tummy is growling so loud.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-    <children>
-      <child nodeId="node-0xbc1f0f0" />
-    </children>
-  </item>
-  <item nodeId="node-0xbc1f0f0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Lagoon
-The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
-
-You can see a Cave and a jug here.
-
-Food would be REALLY great right now.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-    <children>
-      <child nodeId="node-0xaa39810" />
-    </children>
-  </item>
-  <item nodeId="node-0xaa39810">
-    <command xml:space="preserve">take jug</command>
-    <result xml:space="preserve">Okay, I&apos;ve got it. Its a little wet and slippery.
-
-Maybe some pizza would be awesome?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-    <children>
-      <child nodeId="node-0xf13acd0" />
-    </children>
-  </item>
-  <item nodeId="node-0xf13acd0">
-    <command xml:space="preserve">combine jug and dirty clothes</command>
-    <result xml:space="preserve">You can&apos;t use multiple objects with that verb.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-    <children>
-      <child nodeId="node-0xbca2fb0" />
-    </children>
-  </item>
-  <item nodeId="node-0xbca2fb0">
-    <command xml:space="preserve">combine jug and dirty clothes</command>
-    <result xml:space="preserve">You can&apos;t use multiple objects with that verb.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be4120" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be4120">
-    <command xml:space="preserve">combine jug with dirty clothes</command>
-    <result xml:space="preserve">You now have a clean clothes.
-
-Maybe some pizza would be awesome?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="8">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be87f0">
-    <command xml:space="preserve">x brass box</command>
-    <result xml:space="preserve">A 3x3 brass box is in the corner of the platform. Like the clothes, it is dusty and dirty.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="29">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8860" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8860">
-    <command xml:space="preserve">open box</command>
-    <result xml:space="preserve">It seems to be locked.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="28">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be88d0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Small forest
-You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
-
-You can see some bananas, a branch and a thin plastic card here.
-
-I need food now… Please?, 
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8940" />
-      <child nodeId="node-0x1be8e80" />
-      <child nodeId="node-0x1be8e10" />
-      <child nodeId="node-0x1be8a90" />
-      <child nodeId="node-0x1be90b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be90b0">
-    <command xml:space="preserve">use branch</command>
-    <result xml:space="preserve">(first taking the branch)
-I&apos;ve got it!
-
-You are holding the branch in your right hand like it is a violent obeject.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="80">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9120" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9120">
-    <command xml:space="preserve">hit bananas</command>
-    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="80">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9190" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9190">
-    <command xml:space="preserve">hit bananas</command>
-    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="80">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9200" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9200">
-    <command xml:space="preserve">eat bananas</command>
-    <result xml:space="preserve">(first taking the bananas)
-OK got them.
-
-You eat the bananas in happiness.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="79">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be8a90">
-    <command xml:space="preserve">x ground</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8b00" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8b00">
-    <command xml:space="preserve">take branch</command>
-    <result xml:space="preserve">I&apos;ve got it!
-
-I really could go for a burger.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8b70" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8b70">
-    <command xml:space="preserve">use branch</command>
-    <result xml:space="preserve">You are holding the branch in your right hand like it is a violent obeject.
-
-I&apos;m weak, tired and especially starving!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8be0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8be0">
-    <command xml:space="preserve">hit bananas</command>
-    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
-
-I need food now… Please?it
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8c50" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8c50">
-    <command xml:space="preserve">take bananas</command>
-    <result xml:space="preserve">OK got them.
-
-I can&apos;t function without my food…!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8cc0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8cc0">
-    <command xml:space="preserve">eat bananas</command>
-    <result xml:space="preserve">You eat the bananas in happiness.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8d30" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8d30">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="162">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8da0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8da0">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="161">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be8e10">
-    <command xml:space="preserve">take bananas</command>
-    <result xml:space="preserve">They are too tall for me to reach or jump and reach to get them. You&apos;re not that tall.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="82">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be8e80">
-    <command xml:space="preserve">take branch</command>
-    <result xml:space="preserve">I&apos;ve got it!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="8">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8ef0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8ef0">
-    <command xml:space="preserve">use branch</command>
-    <result xml:space="preserve">You are holding the branch in your right hand like it is a violent obeject.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="8">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8f60" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8f60">
-    <command xml:space="preserve">hit bananas</command>
-    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="8">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8fd0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8fd0">
-    <command xml:space="preserve">take bananas</command>
-    <result xml:space="preserve">OK got them.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="8">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be8940">
-    <command xml:space="preserve">x bananas</command>
-    <result xml:space="preserve">The yellow or green bananas hang in bunches up in their trees. They look so delicious.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="37">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be89b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be89b0">
-    <command xml:space="preserve">take bananas</command>
-    <result xml:space="preserve">They are too tall for me to reach or jump and reach to get them. You&apos;re not that tall.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="37">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8a20" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8a20">
-    <command xml:space="preserve">x branch</command>
-    <result xml:space="preserve">You see nothing special about the branch.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="36">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be86a0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Boulders
-An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
-
-You can see some shrubs and some berries here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="12">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8710" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8710">
-    <command xml:space="preserve">x berries</command>
-    <result xml:space="preserve">They are berries. I don&apos;t know exactly what kind of berry, but they look pretty good.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="12">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be8780" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be8780">
-    <command xml:space="preserve">eat berries</command>
-    <result xml:space="preserve">(first taking the berries)
-You eat the berries in happiness.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="11">YES</temporary>
-  </item>
-  <item nodeId="node-0xbcc2520">
-    <command xml:space="preserve">take clothes</command>
-    <result xml:space="preserve">I guess I&apos;ll carry it…but it&apos;s filthy.
-
-I&apos;m weak, tired and especially starving!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="17">YES</temporary>
-    <children>
-      <child nodeId="node-0x6d3b4b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x6d3b4b0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Boulders
-An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
-
-You can see some shrubs and some berries here.
-
-I really could go for a burger and some ice cream.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="17">YES</temporary>
-    <children>
-      <child nodeId="node-0xf1cb9a0" />
-    </children>
-  </item>
-  <item nodeId="node-0xf1cb9a0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Lagoon
-The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
-
-You can see a Cave and a jug here.
-
-Is there any fruits for me to eat here?
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="17">YES</temporary>
-    <children>
-      <child nodeId="node-0xf13eaa0" />
-    </children>
-  </item>
-  <item nodeId="node-0xf13eaa0">
-    <command xml:space="preserve">take jug</command>
-    <result xml:space="preserve">Okay, I&apos;ve got it. It&apos;s a little wet and slippery.
-
-Dude, you are sooooo hungry.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="17">YES</temporary>
-    <children>
-      <child nodeId="node-0x1b897a0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1b897a0">
-    <command xml:space="preserve">clean dirty clothes with jug</command>
-    <result xml:space="preserve">You now have a clean clothes.
-
-I need food.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="17">YES</temporary>
-    <children>
-      <child nodeId="node-0xf1b2af0" />
-    </children>
-  </item>
-  <item nodeId="node-0xf1b2af0">
-    <command xml:space="preserve">wear clothes</command>
-    <result xml:space="preserve">You can&apos;t wear that!
-
-Dude, you are sooooo hungry.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="17">YES</temporary>
-    <children>
-      <child nodeId="node-0xaa86ca0" />
-    </children>
-  </item>
-  <item nodeId="node-0xaa86ca0">
-    <command xml:space="preserve">wear the clean clothes</command>
-    <result xml:space="preserve">You can&apos;t wear that!
-
-I can&apos;t function without my food!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="16">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be9270">
-    <command xml:space="preserve">x players face</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="13">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be92e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be92e0">
-    <command xml:space="preserve">x face</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="13">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9350" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9350">
-    <command xml:space="preserve">x body</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="12">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be93c0">
-    <command xml:space="preserve">x palm trees</command>
-    <result xml:space="preserve">Many tall palm trees line up in rows basically creating a wall of trunks.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="15">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9430" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9430">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. It is about 3 feet set up above the ground.
-
-You can see some dirty clothes here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="14">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be94a0">
-    <command xml:space="preserve">x sand</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9510" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9510">
-    <command xml:space="preserve">x reef</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9580" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9580">
-    <command xml:space="preserve">x waves</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be95f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be95f0">
-    <command xml:space="preserve">x face</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9660" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9660">
-    <command xml:space="preserve">x self</command>
-    <result xml:space="preserve">As good-looking as ever.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be96d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be96d0">
-    <command xml:space="preserve">x cuts</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9740" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9740">
-    <command xml:space="preserve">x ocean</command>
-    <result xml:space="preserve">The ocean that took your friend, your ship, and almost your life. It is also known as the Arabian Sea.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be97b0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be97b0">
-    <command xml:space="preserve">x trees</command>
-    <result xml:space="preserve">Many tall palm trees line up in rows basically creating a wall of trunks.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9820" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9820">
-    <command xml:space="preserve">x wood</command>
-    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9890" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9890">
-    <command xml:space="preserve">take wood</command>
-    <result xml:space="preserve">The wood is too heavy for me to pick up, but I can drag it.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9900" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9900">
-    <command xml:space="preserve">enter ocean</command>
-    <result xml:space="preserve">It&apos;s kinda cold, I&apos;m also a little scared to be in here, given the circumstances.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="73">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9970" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9970">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">(first getting off the ocean)
-
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="72">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be99e0">
-    <command xml:space="preserve">x cuts</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="10">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9a50" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9a50">
-    <command xml:space="preserve">x face</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="10">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9ac0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9ac0">
-    <command xml:space="preserve">cuts</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="9">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be9b30">
-    <command xml:space="preserve">x ocean</command>
-    <result xml:space="preserve">The ocean that took your friend, your ship, and almost your life. It is also known as the Arabian Sea.
-
-Dude, you are sooooo hungry.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="152">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9ba0" />
-      <child nodeId="node-0x1bea380" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea380">
-    <command xml:space="preserve">x wood</command>
-    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
-
-I&apos;m weak, tired and especially starving!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="152">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea3f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea3f0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-I need food now… Please?lo
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="152">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea460" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea460">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">
-Small forest
-You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
-
-You can see some bananas, a branch and a thin plastic card here.
-
-I&apos;m weak, tired and especially starving!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="151">YES</temporary>
-  </item>
-  <item nodeId="node-0x1be9ba0">
-    <command xml:space="preserve">x palm tree</command>
-    <result xml:space="preserve">I only understood you as far as wanting to examine the palm trees.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9c10" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9c10">
-    <command xml:space="preserve">x wood</command>
-    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9c80" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9c80">
-    <command xml:space="preserve">take wood</command>
-    <result xml:space="preserve">The wood is too heavy for me to pick up, but I can drag it.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9cf0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9cf0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9d60" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9d60">
-    <command xml:space="preserve">w</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9dd0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9dd0">
-    <command xml:space="preserve">e</command>
-    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
-Wooden Structure
-You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
-
-You can see some dirty clothes here.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9e40" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9e40">
-    <command xml:space="preserve">s</command>
-    <result xml:space="preserve">You can&apos;t go that way.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9eb0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9eb0">
-    <command xml:space="preserve">x clothes</command>
-    <result xml:space="preserve">A pile of old, dusty, dirty t-shirts and baggy pants.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9f20" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9f20">
-    <command xml:space="preserve">x box</command>
-    <result xml:space="preserve">A 3x3 ft brass box is in the corner of the platform. Like the clothes, it is dusty and dirty.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1be9f90" />
-    </children>
-  </item>
-  <item nodeId="node-0x1be9f90">
-    <command xml:space="preserve">open box</command>
-    <result xml:space="preserve">It seems to be locked.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea000" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea000">
-    <command xml:space="preserve">take box</command>
-    <result xml:space="preserve">That&apos;s hardly portable.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea070" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea070">
-    <command xml:space="preserve">use wood</command>
-    <result xml:space="preserve">You can&apos;t wear that!
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="55">YES</temporary>
-    <children>
-      <child nodeId="node-0x1bea0e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x1bea0e0">
-    <command xml:space="preserve">break box</command>
-    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="54">YES</temporary>
-  </item>
-  <item nodeId="node-0x1ba23d0">
+    <temporary score="87">NO</temporary>
+    <children>
+      <child nodeId="node-0x6cf1220" />
+      <child nodeId="node-0x6cf0ab0" />
+      <child nodeId="node-0x6cf07a0" />
+      <child nodeId="node-0x74ae420" />
+      <child nodeId="node-0x6cf0260" />
+      <child nodeId="node-0x6ceef90" />
+      <child nodeId="node-0x6cee820" />
+      <child nodeId="node-0x18ed8f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x18ed8f0">
     <command xml:space="preserve">go to wooden structure</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1936,10 +43,10 @@ You can see some dirty clothes here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1ba2440" />
+      <child nodeId="node-0x18ed940" />
     </children>
   </item>
-  <item nodeId="node-0x1ba2440">
+  <item nodeId="node-0x18ed940">
     <command xml:space="preserve">search wooden structure</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1948,10 +55,10 @@ You can see some dirty clothes here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6be0" />
+      <child nodeId="node-0x18ed990" />
     </children>
   </item>
-  <item nodeId="node-0x1be6be0">
+  <item nodeId="node-0x18ed990">
     <command xml:space="preserve">examine piece of wood</command>
     <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
 
@@ -1960,10 +67,10 @@ You can see some dirty clothes here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6c90" />
+      <child nodeId="node-0x18eda00" />
     </children>
   </item>
-  <item nodeId="node-0x1be6c90">
+  <item nodeId="node-0x18eda00">
     <command xml:space="preserve">go north</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1972,12 +79,12 @@ You can see some dirty clothes here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6d00" />
+      <child nodeId="node-0x18eda70" />
     </children>
   </item>
-  <item nodeId="node-0x1be6d00">
+  <item nodeId="node-0x18eda70">
     <command xml:space="preserve">go east</command>
-    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…怘
 Wooden Structure
 You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
 
@@ -1988,10 +95,10 @@ You can see some dirty clothes here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6d50" />
+      <child nodeId="node-0x18edae0" />
     </children>
   </item>
-  <item nodeId="node-0x1be6d50">
+  <item nodeId="node-0x18edae0">
     <command xml:space="preserve">examine clothes</command>
     <result xml:space="preserve">A pile of old, dusty, dirty t-shirts and baggy pants.
 
@@ -2000,13 +107,13 @@ You can see some dirty clothes here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6e40" />
+      <child nodeId="node-0x18edbd0" />
     </children>
   </item>
-  <item nodeId="node-0x1be6e40">
+  <item nodeId="node-0x18edbd0">
     <command xml:space="preserve">use clothes</command>
     <result xml:space="preserve">(first taking the dirty clothes)
-I guess I&apos;ll carry it…but it&apos;s filthy.
+I guess I&apos;ll carry it…but itꥐƏ&apos;s filthy.
 
 I don&apos;t want to put on any mysterious clothing. Especially when they are dirty and stinky.
 
@@ -2015,10 +122,10 @@ I don&apos;t want to put on any mysterious clothing. Especially when they are di
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6e90" />
+      <child nodeId="node-0x18edc20" />
     </children>
   </item>
-  <item nodeId="node-0x1be6e90">
+  <item nodeId="node-0x18edc20">
     <command xml:space="preserve">examine brass box</command>
     <result xml:space="preserve">A 3x3 ft brass box is in the corner of the platform. Like the clothes, it is dusty and dirty.
 
@@ -2027,10 +134,10 @@ I don&apos;t want to put on any mysterious clothing. Especially when they are di
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6ee0" />
+      <child nodeId="node-0x18edc70" />
     </children>
   </item>
-  <item nodeId="node-0x1be6ee0">
+  <item nodeId="node-0x18edc70">
     <command xml:space="preserve">open brass box</command>
     <result xml:space="preserve">It seems to be locked.
 
@@ -2039,10 +146,10 @@ I don&apos;t want to put on any mysterious clothing. Especially when they are di
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6f50" />
+      <child nodeId="node-0x18edce0" />
     </children>
   </item>
-  <item nodeId="node-0x1be6f50">
+  <item nodeId="node-0x18edce0">
     <command xml:space="preserve">use brass box</command>
     <result xml:space="preserve">(first taking the brass box)
 That&apos;s hardly portable.
@@ -2052,10 +159,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6fc0" />
+      <child nodeId="node-0x18edd50" />
     </children>
   </item>
-  <item nodeId="node-0x1be6fc0">
+  <item nodeId="node-0x18edd50">
     <command xml:space="preserve">use brass box on platform</command>
     <result xml:space="preserve">I only understood you as far as wanting to use the brass box.
 
@@ -2064,10 +171,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be70f0" />
+      <child nodeId="node-0x6ced2e0" />
     </children>
   </item>
-  <item nodeId="node-0x1be70f0">
+  <item nodeId="node-0x6ced2e0">
     <command xml:space="preserve">use brass box on ground</command>
     <result xml:space="preserve">I only understood you as far as wanting to use the brass box.
 
@@ -2076,10 +183,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be6de0" />
+      <child nodeId="node-0x18edb70" />
     </children>
   </item>
-  <item nodeId="node-0x1be6de0">
+  <item nodeId="node-0x18edb70">
     <command xml:space="preserve">move brass box</command>
     <result xml:space="preserve">It is fixed in place.
 
@@ -2088,10 +195,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7160" />
+      <child nodeId="node-0x6ced350" />
     </children>
   </item>
-  <item nodeId="node-0x1be7160">
+  <item nodeId="node-0x6ced350">
     <command xml:space="preserve">stand on brass box</command>
     <result xml:space="preserve">That&apos;s not something you can stand on.
 
@@ -2100,10 +207,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be71d0" />
+      <child nodeId="node-0x6ced3c0" />
     </children>
   </item>
-  <item nodeId="node-0x1be71d0">
+  <item nodeId="node-0x6ced3c0">
     <command xml:space="preserve">exit wooden structure</command>
     <result xml:space="preserve">I only understood you as far as wanting to exit.
 
@@ -2112,10 +219,10 @@ That&apos;s hardly portable.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7240" />
+      <child nodeId="node-0x6ced430" />
     </children>
   </item>
-  <item nodeId="node-0x1be7240">
+  <item nodeId="node-0x6ced430">
     <command xml:space="preserve">go west</command>
     <result xml:space="preserve">
 Beach
@@ -2128,10 +235,10 @@ You can see an ocean, some palm trees and a piece of wood here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be72b0" />
+      <child nodeId="node-0x6ced4a0" />
     </children>
   </item>
-  <item nodeId="node-0x1be72b0">
+  <item nodeId="node-0x6ced4a0">
     <command xml:space="preserve">go north</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2140,10 +247,10 @@ You can see an ocean, some palm trees and a piece of wood here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7320" />
+      <child nodeId="node-0x6ced510" />
     </children>
   </item>
-  <item nodeId="node-0x1be7320">
+  <item nodeId="node-0x6ced510">
     <command xml:space="preserve">go south</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2152,10 +259,10 @@ You can see an ocean, some palm trees and a piece of wood here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7390" />
+      <child nodeId="node-0x6ced580" />
     </children>
   </item>
-  <item nodeId="node-0x1be7390">
+  <item nodeId="node-0x6ced580">
     <command xml:space="preserve">go east</command>
     <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
 Wooden Structure
@@ -2166,10 +273,10 @@ You enter a wooden structure. I dont really know what it is, but it is definitel
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7030" />
+      <child nodeId="node-0x6ced220" />
     </children>
   </item>
-  <item nodeId="node-0x1be7030">
+  <item nodeId="node-0x6ced220">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Small forest
@@ -2182,10 +289,10 @@ You can see a branch, some bananas and a thin plastic card here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7080" />
+      <child nodeId="node-0x6ced270" />
     </children>
   </item>
-  <item nodeId="node-0x1be7080">
+  <item nodeId="node-0x6ced270">
     <command xml:space="preserve">use banana</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2194,10 +301,10 @@ You can see a branch, some bananas and a thin plastic card here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7580" />
+      <child nodeId="node-0x6ced770" />
     </children>
   </item>
-  <item nodeId="node-0x1be7580">
+  <item nodeId="node-0x6ced770">
     <command xml:space="preserve">eat banana</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2206,10 +313,10 @@ You can see a branch, some bananas and a thin plastic card here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be75f0" />
+      <child nodeId="node-0x6ced7e0" />
     </children>
   </item>
-  <item nodeId="node-0x1be75f0">
+  <item nodeId="node-0x6ced7e0">
     <command xml:space="preserve">examine bananas</command>
     <result xml:space="preserve">The yellow or green bananas hang in bunches up in their trees. They look so delicious.
 
@@ -2218,10 +325,10 @@ You can see a branch, some bananas and a thin plastic card here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7660" />
+      <child nodeId="node-0x6ced850" />
     </children>
   </item>
-  <item nodeId="node-0x1be7660">
+  <item nodeId="node-0x6ced850">
     <command xml:space="preserve">use branch</command>
     <result xml:space="preserve">(first taking the branch)
 I&apos;ve got it!
@@ -2233,10 +340,10 @@ You are holding the branch in your right hand like it is a violent obeject.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be76d0" />
+      <child nodeId="node-0x6ced8c0" />
     </children>
   </item>
-  <item nodeId="node-0x1be76d0">
+  <item nodeId="node-0x6ced8c0">
     <command xml:space="preserve">hit bananas</command>
     <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
 
@@ -2245,10 +352,10 @@ You are holding the branch in your right hand like it is a violent obeject.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7740" />
+      <child nodeId="node-0x6ced930" />
     </children>
   </item>
-  <item nodeId="node-0x1be7740">
+  <item nodeId="node-0x6ced930">
     <command xml:space="preserve">eat banana</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2257,10 +364,10 @@ You are holding the branch in your right hand like it is a violent obeject.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be77b0" />
+      <child nodeId="node-0x6ced9a0" />
     </children>
   </item>
-  <item nodeId="node-0x1be77b0">
+  <item nodeId="node-0x6ced9a0">
     <command xml:space="preserve">use banana</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2269,10 +376,10 @@ You are holding the branch in your right hand like it is a violent obeject.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7820" />
+      <child nodeId="node-0x6ceda10" />
     </children>
   </item>
-  <item nodeId="node-0x1be7820">
+  <item nodeId="node-0x6ceda10">
     <command xml:space="preserve">examine banana</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2281,10 +388,10 @@ You are holding the branch in your right hand like it is a violent obeject.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7890" />
+      <child nodeId="node-0x6ceda80" />
     </children>
   </item>
-  <item nodeId="node-0x1be7890">
+  <item nodeId="node-0x6ceda80">
     <command xml:space="preserve">examine bananas</command>
     <result xml:space="preserve">The yellow or green bananas hang in bunches up in their trees. They look so delicious.
 
@@ -2293,10 +400,10 @@ You are holding the branch in your right hand like it is a violent obeject.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7900" />
+      <child nodeId="node-0x6cedaf0" />
     </children>
   </item>
-  <item nodeId="node-0x1be7900">
+  <item nodeId="node-0x6cedaf0">
     <command xml:space="preserve">use bananas</command>
     <result xml:space="preserve">(first taking the bananas)
 OK got them.
@@ -2308,10 +415,10 @@ You can&apos;t wear those!
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7970" />
+      <child nodeId="node-0x6cedb60" />
     </children>
   </item>
-  <item nodeId="node-0x1be7970">
+  <item nodeId="node-0x6cedb60">
     <command xml:space="preserve">eat bananas</command>
     <result xml:space="preserve">You eat the bananas in happiness.
 
@@ -2322,10 +429,10 @@ I&apos;m really hungry and thirsty, I could really go for some food and somethin
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be79e0" />
+      <child nodeId="node-0x6cedbd0" />
     </children>
   </item>
-  <item nodeId="node-0x1be79e0">
+  <item nodeId="node-0x6cedbd0">
     <command xml:space="preserve">examine shurb</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2334,10 +441,10 @@ I&apos;m really hungry and thirsty, I could really go for some food and somethin
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7400" />
+      <child nodeId="node-0x6ced5f0" />
     </children>
   </item>
-  <item nodeId="node-0x1be7400">
+  <item nodeId="node-0x6ced5f0">
     <command xml:space="preserve">examine shrub</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2346,10 +453,10 @@ I&apos;m really hungry and thirsty, I could really go for some food and somethin
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7470" />
+      <child nodeId="node-0x6ced660" />
     </children>
   </item>
-  <item nodeId="node-0x1be7470">
+  <item nodeId="node-0x6ced660">
     <command xml:space="preserve">examine shrubs</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2358,10 +465,10 @@ I&apos;m really hungry and thirsty, I could really go for some food and somethin
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be74e0" />
+      <child nodeId="node-0x6ced6d0" />
     </children>
   </item>
-  <item nodeId="node-0x1be74e0">
+  <item nodeId="node-0x6ced6d0">
     <command xml:space="preserve">examine plastic card</command>
     <result xml:space="preserve">A thin plastic rectangular card. As your rub it between your hands some of the dirt falls off and you realize that the card is actually an ID card. You can&apos;t make out the name of the person due to many scratches, but you see a vague image of a human being and a barcode.
 
@@ -2370,10 +477,10 @@ I&apos;m really hungry and thirsty, I could really go for some food and somethin
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7c90" />
+      <child nodeId="node-0x6cede80" />
     </children>
   </item>
-  <item nodeId="node-0x1be7c90">
+  <item nodeId="node-0x6cede80">
     <command xml:space="preserve">use plastic card</command>
     <result xml:space="preserve">(first taking the thin plastic card)
 You take the card and slip it into your pocket.
@@ -2385,10 +492,10 @@ You can&apos;t wear that!
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7d00" />
+      <child nodeId="node-0x6cedef0" />
     </children>
   </item>
-  <item nodeId="node-0x1be7d00">
+  <item nodeId="node-0x6cedef0">
     <command xml:space="preserve">use clothes on branch</command>
     <result xml:space="preserve">I only understood you as far as wanting to use the dirty clothes.
 
@@ -2397,10 +504,10 @@ You can&apos;t wear that!
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7d70" />
+      <child nodeId="node-0x6cedf60" />
     </children>
   </item>
-  <item nodeId="node-0x1be7d70">
+  <item nodeId="node-0x6cedf60">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   a thin plastic card
@@ -2412,10 +519,10 @@ You can&apos;t wear that!
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7de0" />
+      <child nodeId="node-0x6cedfd0" />
     </children>
   </item>
-  <item nodeId="node-0x1be7de0">
+  <item nodeId="node-0x6cedfd0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2424,10 +531,10 @@ You can&apos;t wear that!
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7e50" />
+      <child nodeId="node-0x6cee040" />
     </children>
   </item>
-  <item nodeId="node-0x1be7e50">
+  <item nodeId="node-0x6cee040">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Wooden Structure
@@ -2438,10 +545,10 @@ You enter a wooden structure. I dont really know what it is, but it is definitel
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7ec0" />
+      <child nodeId="node-0x6cee0b0" />
     </children>
   </item>
-  <item nodeId="node-0x1be7ec0">
+  <item nodeId="node-0x6cee0b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Small forest
@@ -2452,10 +559,10 @@ You enter a small area full of trees and shurbs. The sun shines through the leav
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7f30" />
+      <child nodeId="node-0x6cee120" />
     </children>
   </item>
-  <item nodeId="node-0x1be7f30">
+  <item nodeId="node-0x6cee120">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2464,10 +571,10 @@ You enter a small area full of trees and shurbs. The sun shines through the leav
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7fa0" />
+      <child nodeId="node-0x6cee190" />
     </children>
   </item>
-  <item nodeId="node-0x1be7fa0">
+  <item nodeId="node-0x6cee190">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2476,10 +583,10 @@ You enter a small area full of trees and shurbs. The sun shines through the leav
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8010" />
+      <child nodeId="node-0x6cee200" />
     </children>
   </item>
-  <item nodeId="node-0x1be8010">
+  <item nodeId="node-0x6cee200">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Wooden Structure
@@ -2490,10 +597,10 @@ You enter a wooden structure. I dont really know what it is, but it is definitel
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8080" />
+      <child nodeId="node-0x6cee270" />
     </children>
   </item>
-  <item nodeId="node-0x1be8080">
+  <item nodeId="node-0x6cee270">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Boulders
@@ -2508,10 +615,10 @@ I haven&apos;t eaten anything, please feed me soon.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be80f0" />
+      <child nodeId="node-0x6cee2e0" />
     </children>
   </item>
-  <item nodeId="node-0x1be80f0">
+  <item nodeId="node-0x6cee2e0">
     <command xml:space="preserve">eat berries</command>
     <result xml:space="preserve">(first taking the berries)
 You eat the berries in happiness.
@@ -2521,10 +628,10 @@ You eat the berries in happiness.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8160" />
+      <child nodeId="node-0x6cee350" />
     </children>
   </item>
-  <item nodeId="node-0x1be8160">
+  <item nodeId="node-0x6cee350">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Open field
@@ -2535,10 +642,10 @@ You enter a serene open, grassy area. It is like an open field you&apos;d see in
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be81d0" />
+      <child nodeId="node-0x6cee3c0" />
     </children>
   </item>
-  <item nodeId="node-0x1be81d0">
+  <item nodeId="node-0x6cee3c0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Boulders
@@ -2551,10 +658,10 @@ You can see some shrubs here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8240" />
+      <child nodeId="node-0x6cee430" />
     </children>
   </item>
-  <item nodeId="node-0x1be8240">
+  <item nodeId="node-0x6cee430">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Lagoon
@@ -2567,10 +674,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be82b0" />
+      <child nodeId="node-0x6cee4a0" />
     </children>
   </item>
-  <item nodeId="node-0x1be82b0">
+  <item nodeId="node-0x6cee4a0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2579,10 +686,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8320" />
+      <child nodeId="node-0x6cee510" />
     </children>
   </item>
-  <item nodeId="node-0x1be8320">
+  <item nodeId="node-0x6cee510">
     <command xml:space="preserve">o</command>
     <result xml:space="preserve">Sorry, that can&apos;t be corrected.
 
@@ -2591,10 +698,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8390" />
+      <child nodeId="node-0x6cee580" />
     </children>
   </item>
-  <item nodeId="node-0x1be8390">
+  <item nodeId="node-0x6cee580">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2603,10 +710,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7a50" />
+      <child nodeId="node-0x6cedc40" />
     </children>
   </item>
-  <item nodeId="node-0x1be7a50">
+  <item nodeId="node-0x6cedc40">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2615,10 +722,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7ac0" />
+      <child nodeId="node-0x6cedcb0" />
     </children>
   </item>
-  <item nodeId="node-0x1be7ac0">
+  <item nodeId="node-0x6cedcb0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Boulders
@@ -2631,10 +738,10 @@ You can see some shrubs here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7b30" />
+      <child nodeId="node-0x6cedd20" />
     </children>
   </item>
-  <item nodeId="node-0x1be7b30">
+  <item nodeId="node-0x6cedd20">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Lagoon
@@ -2647,10 +754,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7ba0" />
+      <child nodeId="node-0x6cedd90" />
     </children>
   </item>
-  <item nodeId="node-0x1be7ba0">
+  <item nodeId="node-0x6cedd90">
     <command xml:space="preserve">examine cave</command>
     <result xml:space="preserve">A big rocky cave under the waterfall.
 
@@ -2659,10 +766,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be7c10" />
+      <child nodeId="node-0x6cede00" />
     </children>
   </item>
-  <item nodeId="node-0x1be7c10">
+  <item nodeId="node-0x6cede00">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2671,10 +778,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8400" />
+      <child nodeId="node-0x6cee5f0" />
     </children>
   </item>
-  <item nodeId="node-0x1be8400">
+  <item nodeId="node-0x6cee5f0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2683,10 +790,10 @@ You can see a Cave here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8470" />
+      <child nodeId="node-0x6cee660" />
     </children>
   </item>
-  <item nodeId="node-0x1be8470">
+  <item nodeId="node-0x6cee660">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Boulders
@@ -2699,10 +806,10 @@ You can see some shrubs here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be84e0" />
+      <child nodeId="node-0x6cee6d0" />
     </children>
   </item>
-  <item nodeId="node-0x1be84e0">
+  <item nodeId="node-0x6cee6d0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2711,10 +818,10 @@ You can see some shrubs here.
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be8550" />
+      <child nodeId="node-0x6cee740" />
     </children>
   </item>
-  <item nodeId="node-0x1be8550">
+  <item nodeId="node-0x6cee740">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Open field
@@ -2725,10 +832,10 @@ You enter a serene open, grassy area. It is like an open field you&apos;d see in
     <changed>YES</changed>
     <temporary score="74">YES</temporary>
     <children>
-      <child nodeId="node-0x1be85c0" />
+      <child nodeId="node-0x6cee7b0" />
     </children>
   </item>
-  <item nodeId="node-0x1be85c0">
+  <item nodeId="node-0x6cee7b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Boulders
@@ -2740,5 +847,2601 @@ You can see some shrubs here.
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="73">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cee820">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+It feels as though you haven&apos;t eaten in weeks. Months, almost.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cee890" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cee890">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+Is there any fruits for me to eat here?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cee900" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cee900">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Small forest
+You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
+
+You can see some bananas, a branch and a thin plastic card here.
+
+I really could go for a burger and some ice cream.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cee970" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cee970">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cee9e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cee9e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+Food would be REALLY great right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceea50" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceea50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+It feels as though you haven&apos;t eaten in weeks. Months, almost.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceeac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceeac0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+I really could go for a burger and some ice cream.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceeb30" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceeb30">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceeba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceeba0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave and a jug here.
+
+Some pizza would be awesome!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceec10" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceec10">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+North forest
+Nothing more ordinary than just another forest here on this abandoned island; tons of trees, moss, shurbs, etc. There&apos;s a lot of mysterious noises it freaks me out. It almost sounds like machinery and a bunch of beeping. But I thought there was no one on this island?
+
+You can see Melvin here.
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceec80" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceec80">
+    <command xml:space="preserve">x melvin</command>
+    <result xml:space="preserve">An scragly, old man with glasses. It looks like he is wearing old, dirty, ripped up clothing.
+
+Food would be REALLY great right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceecf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceecf0">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Hi, there,&quot; you say hesitantly.
+
+&quot;**jumps** Um hi…&quot; he replies stunned.
+
+I can&apos;t function without my food!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceed60" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceed60">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Who are you? Are you stuck on this island too?&quot;
+
+&quot;No definitely not, I came here in search of data.&quot;
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceedd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceedd0">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Oh, do you know how you can get me off this island. I&apos;ve been stuck for a while, I really need help. I need to get to Malé.&quot;
+
+&quot;Ummm I have lost all connections with going back to the city…Ahemm, I&apos;m going to go about my day if thats okay.&quot;
+
+Food would be REALLY great right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceee40" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceee40">
+    <command xml:space="preserve">talk more</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceeeb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceeeb0">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Oh, do you know how you can get me off this island. I&apos;ve been stuck for a while, I really need help. I need to get to Malé.&quot;
+
+&quot;Ummm I have lost all connections with going back to the city…Ahemm, I&apos;m going to go about my day if thats okay.&quot;
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ceef20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ceef20">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Oh, do you know how you can get me off this island. I&apos;ve been stuck for a while, I really need help. I need to get to Malé.&quot;
+
+&quot;Ummm I have lost all connections with going back to the city…Ahemm, I&apos;m going to go about my day if thats okay.&quot;
+
+Is there any fruits for me to eat here?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+  </item>
+  <item nodeId="node-0x6ceef90">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+I can&apos;t function without my food!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef3f0" />
+      <child nodeId="node-0x6cef310" />
+      <child nodeId="node-0x6cef000" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef000">
+    <command xml:space="preserve">tkae clothes</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef070" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef070">
+    <command xml:space="preserve">take clothes</command>
+    <result xml:space="preserve">I guess I&apos;ll carry it…but it&apos;s filthy.
+
+Dude, you are sooooo hungry.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef0e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef0e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef150" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef150">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave and a jug here.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef1c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef1c0">
+    <command xml:space="preserve">take jug</command>
+    <result xml:space="preserve">Okay, I&apos;ve got it. It&apos;s a little wet and slippery.
+
+Maybe some pizza would be awesome?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef230" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef230">
+    <command xml:space="preserve">clean clothes with jug</command>
+    <result xml:space="preserve">You now have a clean clothes.
+
+Maybe some pizza would be awesome?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cef310">
+    <command xml:space="preserve">x brass box</command>
+    <result xml:space="preserve">A 3x3 brass box is in the corner of the platform. Like the clothes, it is dusty and dirty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="29">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef380" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef380">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cef3f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Small forest
+You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
+
+You can see some bananas, a branch and a thin plastic card here.
+
+Some pizza would be awesome!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef460" />
+      <child nodeId="node-0x6cef9a0" />
+      <child nodeId="node-0x6cef930" />
+      <child nodeId="node-0x6cef5b0" />
+      <child nodeId="node-0x6cefd90" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefd90">
+    <command xml:space="preserve">use branch</command>
+    <result xml:space="preserve">(first taking the branch)
+I&apos;ve got it!
+
+You are holding the branch in your right hand like it is a violent obeject.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefe00" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefe00">
+    <command xml:space="preserve">hit bananas</command>
+    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefe70" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefe70">
+    <command xml:space="preserve">hit bananas</command>
+    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="80">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefee0">
+    <command xml:space="preserve">eat bananas</command>
+    <result xml:space="preserve">(first taking the bananas)
+OK got them.
+
+You eat the bananas in happiness.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="79">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cef5b0">
+    <command xml:space="preserve">x ground</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef620" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef620">
+    <command xml:space="preserve">take branch</command>
+    <result xml:space="preserve">I&apos;ve got it!
+
+I really could go for a burger.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef690" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef690">
+    <command xml:space="preserve">use branch</command>
+    <result xml:space="preserve">You are holding the branch in your right hand like it is a violent obeject.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef700" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef700">
+    <command xml:space="preserve">hit bananas</command>
+    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
+
+I need food now… Please?it the
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef770" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef770">
+    <command xml:space="preserve">take bananas</command>
+    <result xml:space="preserve">OK got them.
+
+I can&apos;t function without my food…!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef7e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef7e0">
+    <command xml:space="preserve">eat bananas</command>
+    <result xml:space="preserve">You eat the bananas in happiness.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef850" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef850">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="162">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef8c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef8c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="161">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cef930">
+    <command xml:space="preserve">take bananas</command>
+    <result xml:space="preserve">They are too tall for me to reach or jump and reach to get them. You&apos;re not that tall.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="82">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cef9a0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+It feels as though you haven&apos;t eaten in weeks. Months, almost.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefa10" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefa10">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+I can&apos;t function without my food!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefa80" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefa80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave and a jug here.
+
+I can&apos;t function without my food!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefaf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefaf0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+North forest
+Nothing more ordinary than just another forest here on this abandoned island; tons of trees, moss, shurbs, etc. There&apos;s a lot of mysterious noises it freaks me out. It almost sounds like machinery and a bunch of beeping. But I thought there was no one on this island?
+
+You can see Melvin here.
+
+I really could go for a burger and some ice cream.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefbd0" />
+      <child nodeId="node-0x6cefb60" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefb60">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Hi, there,&quot; you say hesitantly.
+
+&quot;**jumps** Um hi…&quot; he replies stunned.
+
+Dude, you are sooooo hungry.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="48">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cefbd0">
+    <command xml:space="preserve">talk to melvine</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefc40" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefc40">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Hi, there,&quot; you say hesitantly.
+
+&quot;**jumps** Um hi…&quot; he replies stunned.
+
+Some pizza would be awesome!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefcb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefcb0">
+    <command xml:space="preserve">ask melvin for magnifying glass</command>
+    <result xml:space="preserve">Melvin has better things to do.
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cefd20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cefd20">
+    <command xml:space="preserve">give magnifying glass to player</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="41">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cef460">
+    <command xml:space="preserve">x bananas</command>
+    <result xml:space="preserve">The yellow or green bananas hang in bunches up in their trees. They look so delicious.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef4d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef4d0">
+    <command xml:space="preserve">take bananas</command>
+    <result xml:space="preserve">They are too tall for me to reach or jump and reach to get them. You&apos;re not that tall.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="37">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cef540" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cef540">
+    <command xml:space="preserve">x branch</command>
+    <result xml:space="preserve">You see nothing special about the branch.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="36">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cf0260">
+    <command xml:space="preserve">x sand</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf02d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf02d0">
+    <command xml:space="preserve">x reef</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0340" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0340">
+    <command xml:space="preserve">x waves</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf03b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf03b0">
+    <command xml:space="preserve">x face</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0420" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0420">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">As good-looking as ever.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0490" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0490">
+    <command xml:space="preserve">x cuts</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0500" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0500">
+    <command xml:space="preserve">x ocean</command>
+    <result xml:space="preserve">The ocean that took your friend, your ship, and almost your life. It is also known as the Arabian Sea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0570" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0570">
+    <command xml:space="preserve">x trees</command>
+    <result xml:space="preserve">Many tall palm trees line up in rows basically creating a wall of trunks.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf05e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf05e0">
+    <command xml:space="preserve">x wood</command>
+    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0650" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0650">
+    <command xml:space="preserve">take wood</command>
+    <result xml:space="preserve">The wood is too heavy for me to pick up, but I can drag it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf06c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf06c0">
+    <command xml:space="preserve">enter ocean</command>
+    <result xml:space="preserve">It&apos;s kinda cold, I&apos;m also a little scared to be in here, given the circumstances.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="73">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0730" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0730">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first getting off the ocean)
+
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="72">YES</temporary>
+  </item>
+  <item nodeId="node-0x74ae420">
+    <command xml:space="preserve">brake wood</command>
+    <result xml:space="preserve">You brake and hit the large piece of wood into many pieces. It now looks like fire wood?
+
+I really could go for a burger and some ice cream.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fa20c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fa20c0">
+    <command xml:space="preserve">take wood</command>
+    <result xml:space="preserve">I&apos;ve got it. This is much easier to carry than it&apos;s whole big piece.
+
+It feels as though you haven&apos;t eaten in weeks. Months, almost.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcb29650" />
+    </children>
+  </item>
+  <item nodeId="node-0xcb29650">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74d35b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x74d35b0">
+    <command xml:space="preserve">take dirty clothes</command>
+    <result xml:space="preserve">I guess I&apos;ll carry it…but it&apos;s filthy.
+
+Food would be REALLY great right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fa3d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fa3d40">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Small forest
+You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
+
+You can see some bananas, a branch and a thin plastic card here.
+
+Dude, you are sooooo hungry.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f95f50" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f95f50">
+    <command xml:space="preserve">use branch and hit bananas</command>
+    <result xml:space="preserve">You can&apos;t use multiple objects with that verb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcb5b570" />
+    </children>
+  </item>
+  <item nodeId="node-0xcb5b570">
+    <command xml:space="preserve">use branch</command>
+    <result xml:space="preserve">(first taking the branch)
+I&apos;ve got it!
+
+You are holding the branch in your right hand like it is a violent obeject.
+
+Some pizza would be awesome!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f8b270" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f8b270">
+    <command xml:space="preserve">hit bananas</command>
+    <result xml:space="preserve">You use the branch and hit the branches that are holding the bananas until a bunch of the bananas fall to the ground.
+
+Some pizza would be awesome!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcbc3260" />
+    </children>
+  </item>
+  <item nodeId="node-0xcbc3260">
+    <command xml:space="preserve">x bananas</command>
+    <result xml:space="preserve">The yellow or green bananas hang in bunches up in their trees. They look so delicious.
+
+Food would be REALLY great right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74e7f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x74e7f40">
+    <command xml:space="preserve">eat bananas</command>
+    <result xml:space="preserve">(first taking the bananas)
+OK got them.
+
+You eat the bananas in happiness.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fa1db0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fa1db0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcb23ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0xcb23ba0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11faaec0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11faaec0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave and a jug here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f92810" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f92810">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Pond
+More exotic plants cover the ground around the pond. The water must come from the Lagoon next door. But the water is filled with tons of algae, fish are capable of living here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x6ce7050" />
+    </children>
+  </item>
+  <item nodeId="node-0x6ce7050">
+    <command xml:space="preserve">x ground</command>
+    <result xml:space="preserve">You look at the ground and see thick green green grass. But you aslo see something shiny, metal colored almost fully covered by the grass. It looks like a key.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74ee510" />
+    </children>
+  </item>
+  <item nodeId="node-0x74ee510">
+    <command xml:space="preserve">x key</command>
+    <result xml:space="preserve">A weathered down brass key. The supposedly jagged edges of the key is smoothing out. The key must be pretty old.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcbf0c20" />
+    </children>
+  </item>
+  <item nodeId="node-0xcbf0c20">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x18538f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x18538f0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f9c5b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f9c5b0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f7ff50" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f7ff50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave and a jug here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f9ffd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f9ffd0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcbdf270" />
+    </children>
+  </item>
+  <item nodeId="node-0xcbdf270">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fb1e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fb1e60">
+    <command xml:space="preserve">x brass box</command>
+    <result xml:space="preserve">A 3x3 ft brass box is in the corner of the platform. Like the clothes, it is dusty and dirty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fba400" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fba400">
+    <command xml:space="preserve">use key</command>
+    <result xml:space="preserve">You can&apos;t wear that!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f9edd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f9edd0">
+    <command xml:space="preserve">use key to open brass box</command>
+    <result xml:space="preserve">I only understood you as far as wanting to use the key.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f86130" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f86130">
+    <command xml:space="preserve">use key</command>
+    <result xml:space="preserve">You can&apos;t wear that!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f9e070" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f9e070">
+    <command xml:space="preserve">open brass box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcb4b350" />
+    </children>
+  </item>
+  <item nodeId="node-0xcb4b350">
+    <command xml:space="preserve">use key</command>
+    <result xml:space="preserve">You can&apos;t wear that!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74d0040" />
+    </children>
+  </item>
+  <item nodeId="node-0x74d0040">
+    <command xml:space="preserve">unlock brass box</command>
+    <result xml:space="preserve">What do you want to unlock the brass box with?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11faaf70" />
+    </children>
+  </item>
+  <item nodeId="node-0x11faaf70">
+    <command xml:space="preserve">the key</command>
+    <result xml:space="preserve">You unlock the brass box.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fbd0e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fbd0e0">
+    <command xml:space="preserve">open the box</command>
+    <result xml:space="preserve">You open the brass box, revealing a journal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f87f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f87f80">
+    <command xml:space="preserve">x journal</command>
+    <result xml:space="preserve">A really old, fragile journal that has tons of pages falling out as you pick it up. The writting from pen and pencil marks are barely visable or readable.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fb08b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fb08b0">
+    <command xml:space="preserve">take journal</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11f7b380" />
+    </children>
+  </item>
+  <item nodeId="node-0x11f7b380">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fcada0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fcada0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave and a jug here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x11fc18b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11fc18b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+North forest
+Nothing more ordinary than just another forest here on this abandoned island; tons of trees, moss, shurbs, etc. There&apos;s a lot of mysterious noises it freaks me out. It almost sounds like machinery and a bunch of beeping. But I thought there was no one on this island?
+
+You can see Melvin here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74f42f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x74f42f0">
+    <command xml:space="preserve">talk to melvin</command>
+    <result xml:space="preserve">&quot;Hi, there,&quot; you say hesitantly.
+
+&quot;**jumps** Um hi…&quot; he replies stunned.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcfd7440" />
+    </children>
+  </item>
+  <item nodeId="node-0xcfd7440">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">&quot;Who are you? Are you stuck on this island too?&quot;
+
+&quot;No definitely not, I came here in search of data or especially this book, or journal that carries A LOT of information.&quot;
+
+Some pizza would be awesome!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcf3dd10" />
+    </children>
+  </item>
+  <item nodeId="node-0xcf3dd10">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">&quot;Oh, do you know how you can get me off this island. I&apos;ve been stuck for a while, I really need help. I need to get to Malé.&quot;
+
+&quot;Ummm I have lost all connections with going back to the city…Ahemm, I&apos;m going to go about my day if thats okay.&quot;
+
+My tummy is growling so loud.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x6c4ffc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6c4ffc0">
+    <command xml:space="preserve">give journal to melvin</command>
+    <result xml:space="preserve">Melvin looks very pleased.
+
+Dude, you are sooooo hungry.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74ee480" />
+    </children>
+  </item>
+  <item nodeId="node-0x74ee480">
+    <command xml:space="preserve">ask for magnifying glass</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0xcfdfef0" />
+    </children>
+  </item>
+  <item nodeId="node-0xcfdfef0">
+    <command xml:space="preserve">ask for magnifying glass</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x746a8c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x746a8c0">
+    <command xml:space="preserve">ask melivin for the magnifying glass</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="87">YES</temporary>
+    <children>
+      <child nodeId="node-0x74ea5e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x74ea5e0">
+    <command xml:space="preserve">ask melvin for magnifying glass</command>
+    <result xml:space="preserve">Now you have the magnifying glass.
+
+I can&apos;t function without my food!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="86">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cf07a0">
+    <command xml:space="preserve">x piece of wood</command>
+    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0880" />
+      <child nodeId="node-0x6cf0810" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0810">
+    <command xml:space="preserve">x wood</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cf0880">
+    <command xml:space="preserve">take wood</command>
+    <result xml:space="preserve">The wood is too heavy for me to pick up, but I can drag it.
+
+I need food.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf08f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf08f0">
+    <command xml:space="preserve">go on wood</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0960" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0960">
+    <command xml:space="preserve">enter wood</command>
+    <result xml:space="preserve">You can only get into something free-standing.
+
+I need food.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf09d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf09d0">
+    <command xml:space="preserve">enter the piece of wood</command>
+    <result xml:space="preserve">You can only get into something free-standing.
+
+I can&apos;t function without my food!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="57">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0a40">
+    <command xml:space="preserve">sit on the piece of wood</command>
+    <result xml:space="preserve">You can only get into something free-standing.
+
+I need food.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="56">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cf0ab0">
+    <command xml:space="preserve">x ocean</command>
+    <result xml:space="preserve">The ocean that took your friend, your ship, and almost your life. It is also known as the Arabian Sea.
+
+Dude, you are sooooo hungry.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="152">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf10d0" />
+      <child nodeId="node-0x6cf0b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0b20">
+    <command xml:space="preserve">x palm tree</command>
+    <result xml:space="preserve">I only understood you as far as wanting to examine the palm trees.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0b90">
+    <command xml:space="preserve">x wood</command>
+    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0c00">
+    <command xml:space="preserve">take wood</command>
+    <result xml:space="preserve">The wood is too heavy for me to pick up, but I can drag it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0c70">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0ce0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0d50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0dc0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0e30">
+    <command xml:space="preserve">x clothes</command>
+    <result xml:space="preserve">A pile of old, dusty, dirty t-shirts and baggy pants.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0ea0">
+    <command xml:space="preserve">x box</command>
+    <result xml:space="preserve">A 3x3 ft brass box is in the corner of the platform. Like the clothes, it is dusty and dirty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0f10">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0f80">
+    <command xml:space="preserve">take box</command>
+    <result xml:space="preserve">That&apos;s hardly portable.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf0ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf0ff0">
+    <command xml:space="preserve">use wood</command>
+    <result xml:space="preserve">You can&apos;t wear that!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="55">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1060" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1060">
+    <command xml:space="preserve">break box</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="54">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cf10d0">
+    <command xml:space="preserve">x wood</command>
+    <result xml:space="preserve">A very large piece of wood that you washed up onto shore on.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="152">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1140" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1140">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+I need food now… Please?lothes
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="152">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf11b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf11b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Small forest
+You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
+
+You can see some bananas, a branch and a thin plastic card here.
+
+I&apos;m weak, tired and especially starving!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="151">YES</temporary>
+  </item>
+  <item nodeId="node-0x6cf1220">
+    <command xml:space="preserve">x beach</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1290" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1290">
+    <command xml:space="preserve">igui</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1300" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1300">
+    <command xml:space="preserve">iuhh34e</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1370" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1370">
+    <command xml:space="preserve">fuigus</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf13e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf13e0">
+    <command xml:space="preserve">dfsdug</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1450" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1450">
+    <command xml:space="preserve">heriughi</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf14c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf14c0">
+    <command xml:space="preserve">dfhhg</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1530" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1530">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You head east and stumble upon the many palm trees and run into a…
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf15a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf15a0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Small forest
+You enter a small area full of trees and shurbs. The sun shines through the leaves and trees so perfectly making this whole situation feel so fake. The ground is covered with rocks, moss and dead leaves.
+
+You can see a branch, some bananas and a thin plastic card here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1610" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1610">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1680" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1680">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf16f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf16f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1760" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1760">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf17d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf17d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1840" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1840">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf18b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf18b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1920" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1920">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1990" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1990">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1a00" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1a00">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Wooden Structure
+You enter a wooden structure. I dont really know what it is, but it is definitely not trees or anything natural. There seems to be beams, along with what looks like a house foundation. The platform is about 3 feet set up above the ground and there is a brass box in the corner.
+
+You can see some dirty clothes here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1a70" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1a70">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1ae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1ae0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1b50" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1b50">
+    <command xml:space="preserve">v</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1bc0">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1c30">
+    <command xml:space="preserve">b</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1ca0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1d10" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1d10">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1d80" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1d80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Lagoon
+The lagoon has a slight tint of turquoise and is insanely clear. The waterfall that feeds the lagoon is probably about 100 foot long from the top of the rocks down to the pool. To the south of you is the boulders and to the west is stream that leads to a tide pool and to the east is more trees and a pond?
+
+You can see a Cave here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1df0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1df0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Boulders
+An empty place free of many trees. Although there are lots of shurbs surrounding hte big rocky place.
+
+You can see some shrubs and some berries here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1e60">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1ed0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1ed0">
+    <command xml:space="preserve">v</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1f40">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf1fb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf1fb0">
+    <command xml:space="preserve">erg</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2020" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2020">
+    <command xml:space="preserve">v</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2090" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2090">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2100" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2100">
+    <command xml:space="preserve">c</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2170" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2170">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Open field
+You enter a serene open, grassy area. It is like an open field you&apos;d see in movies with couples lying in the grass and picking the dandilions. To the east you see an open field and south of you is the wooden structure.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf21e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf21e0">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">
+Large forest
+The thickness of all the trees surrounding the area makes it very dark and a little hard to see There is a lot of moister in the air making it very hot. To your west is an Open field and to your east looks like an opening out of the forest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2250" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2250">
+    <command xml:space="preserve">h</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf22c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf22c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+East Beach
+The sand is a little finer and whiter than the beach you first woke up on. The waves are a lot more calm and don&apos;t freak me out as much either. To your west is the opening back into the Large forest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2330" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2330">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+I&apos;m really hungry and thirsty, I could really go for some food and something to drink right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf23a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf23a0">
+    <command xml:space="preserve">bd</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2410" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2410">
+    <command xml:space="preserve">x</command>
+    <result xml:space="preserve">What do you want to examine?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2480" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2480">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You see nothing unexpected in that direction.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf24f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf24f0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Large forest
+The thickness of all the trees surrounding the area makes it very dark and a little hard to see There is a lot of moister in the air making it very hot. To your west is an Open field and to your east looks like an opening out of the forest.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2560" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2560">
+    <command xml:space="preserve">b</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf25d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf25d0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2640" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2640">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf26b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf26b0">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2720" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2720">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2790" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2790">
+    <command xml:space="preserve">df</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2800" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2800">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2870" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2870">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf28e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf28e0">
+    <command xml:space="preserve">b</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2950" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2950">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf29c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf29c0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2a30" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2a30">
+    <command xml:space="preserve">g</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2aa0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2b10">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2b80">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2bf0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2c60" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2c60">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2cd0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+    <children>
+      <child nodeId="node-0x6cf2d40" />
+    </children>
+  </item>
+  <item nodeId="node-0x6cf2d40">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="145">YES</temporary>
   </item>
 </Skein>
